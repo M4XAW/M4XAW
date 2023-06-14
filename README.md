@@ -11,8 +11,7 @@ I am a student passionate about development and cybersecurity. I love exploring 
 ## Projects
 Here are some of the projects I have recently worked on:
 
-- [Project 1](link-to-project-1) : A brief description of project 1.
-- [Project 2](link-to-project-2) : A brief description of project 2.
+- [SOON](link-to-project-1)
 
 ## Contact
 Feel free to reach out if you'd like to discuss, collaborate on projects, or simply learn more about my work:
