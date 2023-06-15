@@ -17,6 +17,6 @@ Here are some of the projects I have recently worked on:
 Feel free to reach out if you'd like to discuss, collaborate on projects, or simply learn more about my work:
 
 - [Email](m.picault@ecole-ipssi.net)
-- [LinkedIn](linkedin.com/in/maxence-picault-5b9280266)
+- [LinkedIn](https://www.linkedin.com/in/maxence-picault-5b9280266)
 
 Thank you for visiting my GitHub profile! 😊
