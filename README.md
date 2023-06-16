@@ -4,7 +4,7 @@
 I am a student passionate about development and cybersecurity. I love exploring new technologies and discovering how they can enhance our world.
 
 - 🎓 Currently, I am pursuing my studies in computer science in development and cybersecurity.
-- 💻 I have strong programming skills, particularly in HTML5, CSS3, Javascript, jQuery.
+- 💻 I have strong programming skills, particularly in HTML5, CSS3, Javascript, jQuery, PHP8.
 - 🔒 I am also interested in cybersecurity and safeguarding computer systems against threats.
 - 🌱 I am constantly learning new technologies and deepening my knowledge in development and cybersecurity.
 
