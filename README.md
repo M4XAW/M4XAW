@@ -12,7 +12,8 @@ I am a student passionate about development and cybersecurity. I love exploring 
 Here are some of the projects I have recently worked on :
 
 - [Calculator](https://github.com/M4XAW/Calculator)
-- [Frontend Mentor Challenge](https://github.com/M4XAW/Interactive-Rating-component)
+- [Frontend Mentor - Interactive Rating component](https://github.com/M4XAW/Interactive-Rating-component)
+- [Frontend Mentor - Sunnyside agency landing page](https://github.com/M4XAW/Sunnyside-agency-landing-page)
 
 ## Contact
 Feel free to reach out if you'd like to discuss, collaborate on projects, or simply learn more about my work :
