@@ -11,6 +11,7 @@ I am a student passionate about development and cybersecurity. I love exploring 
 ## Projects
 Here are some of the projects I have recently worked on :
 
+- [Rework of mailchimp website](https://github.com/M4XAW/mailchimp.com)
 - [Calculator](https://github.com/M4XAW/Calculator)
 - [Frontend Mentor - Interactive Rating component](https://github.com/M4XAW/Interactive-Rating-component)
 - [Frontend Mentor - Sunnyside agency landing page](https://github.com/M4XAW/Sunnyside-agency-landing-page)
