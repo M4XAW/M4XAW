@@ -3,8 +3,8 @@
 ## About Me
 I am a student passionate about development. I love exploring new technologies and discovering how they can enhance our world.
 
-- 🎓 Currently, I am pursuing my studies in computer science in development and cybersecurity.
-- 💻 I have strong programming skills, particularly in HTML5, CSS3, Javascript.
+- 🎓 Currently, I am pursuing my studies in computer science in development and IT.
+- 💻 I have strong programming skills, particularly in HTML5, CSS3, Javascript, React, API Rest.
 - 🔒 I am also interested in cybersecurity and safeguarding computer systems against threats.
 - 🌱 I am constantly learning new technologies and deepening my knowledge in development and cybersecurity.
 - ⚛️ Full-Stack React Developer 
