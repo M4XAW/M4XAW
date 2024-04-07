@@ -17,6 +17,9 @@ Here are some of the projects I have recently worked on :
 - [Frontend Mentor - Interactive Rating component](https://github.com/M4XAW/Interactive-Rating-component)
 - [Frontend Mentor - Sunnyside agency landing page](https://github.com/M4XAW/Sunnyside-agency-landing-page)
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=vite,react,scss,express,figma,html,css,javascript,mysql,php,git&theme=dark)](https://skillicons.dev)
+
 ## Contact
 Feel free to reach out if you'd like to discuss, collaborate on projects, or simply learn more about my work :
 
